@@ -1,0 +1,45 @@
+{
+    "platform": {
+        "version": "#1 SMP Debian 4.3.3-5kali4 (2016-01-13)", 
+        "system ": "Linux", 
+        "node ": "kali", 
+        "Version tuple": [
+            "2", 
+            "7", 
+            "11"
+        ], 
+        "machine": "x86_64", 
+        "Version": "2.7.11", 
+        "Build": [
+            "default", 
+            "Dec  9 2015 00:29:25"
+        ], 
+        "release": "4.3.0-kali1-amd64", 
+        "processor": "", 
+        "Compiler": "GCC 5.3.1 20151205"
+    }, 
+    "os": {
+        "user id": 0, 
+        "process id": 6709, 
+        "system info": [
+            "Linux", 
+            "kali", 
+            "4.3.0-kali1-amd64", 
+            "#1 SMP Debian 4.3.3-5kali4 (2016-01-13)", 
+            "x86_64"
+        ], 
+        "current Directory": "/root/Desktop", 
+        "mode": [
+            0.02, 
+            0.0, 
+            0.0, 
+            0.0, 
+            17203712.47
+        ]
+    }, 
+    "usinfo": {
+        "host": ":0", 
+        "usrname": "root", 
+        "teminal": "tty2"
+    }
+}
